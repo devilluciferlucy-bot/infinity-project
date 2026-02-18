@@ -1,2 +1,2 @@
-# CALC
-CALCULATOR
+# infinity
+infinity project
